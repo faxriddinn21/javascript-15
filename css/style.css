@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: yellow;
+}
+
+.text-title{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 250px;
+    color: red;
+}
